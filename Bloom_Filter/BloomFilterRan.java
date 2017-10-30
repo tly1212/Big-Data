@@ -3,7 +3,6 @@ import java.util.BitSet;
 import java.util.Random;
 /**
  * didnot change the filter size!!!
- * @author sunmoon
  */
 
 public class BloomFilterRan {
